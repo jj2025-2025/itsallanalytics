@@ -6,3 +6,7 @@ The frst example  is when we derive a solution from a small set of formulas or r
 
 # Algorithm-based
 The second set  is algorithms that require a computer program to search for the best answer. Machine learning and other data mining methods are domains for these algorithms. This is typically done by specifying a candidate solution (model or solution space) and letting the computer run until it fnds the best possible solution based on some criteria. An example could be imaging processing, where we use a model-building algorithm to generate a model to predict a brain aneurysm based on patient brain scans. However, using these algorithms, the best answer might never be found. 
+
+# Credits
+Burk, S., Miner, G. (2020). It's All Analytics! The Foundations of AI, Big Data, and Data Science Landscape for Professionals in Healthcare, Business, and Government. United Kingdom: Productivity Press.
+Grok (xAI)
